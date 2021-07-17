@@ -1,4 +1,4 @@
-# calculator-assembly
+# Calculadora Inteira
 Uma calculadora que realize o cálculo de 2 números inteiros na linguagem **Assembly do Intel 8086**. 
 
 - Entrada de valores via teclado (interrupção DOS).
